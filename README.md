@@ -1,7 +1,13 @@
 # NeoChips
-Replacement "chips" for NeoGeo systems.
+Design files for NeoGeo replacement "chips".
 
-Order standard 1.6mm FR4 boards with soldermask on both sides. Specs are 6/6mil, min hole 3.5mm. Make sure the fab is able to do castellated holes.
+Sometimes for sale [on Tindie](https://www.tindie.com/stores/furrtek/).
+
+Or DIY:
+1. Order standard 1.6mm FR4 boards or thinner, with soldermask on both sides. Specs are 6/6mil, min hole 3.5mm. Make sure that the fab is able to do castellated holes.
+2. Order components from Digikey, Mouser, Farnell, LCSC...
+3. Assemble following schematics
+4. Use !
 
 # Disclaimer
 
