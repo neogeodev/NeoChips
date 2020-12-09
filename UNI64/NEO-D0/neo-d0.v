@@ -1,5 +1,8 @@
+// SNK NEO-D0 logic definition
+// 2020 Sean 'furrtek' Gonsalves - See LICENSE file
 // TESTED: Clocks, Z80 subsystem signals
 // UNTESTED: BNK and controller OUT outputs
+
 module neo_d0(
 	input [5:0] M68K_DATA,
 	output [2:0] P1_OUT,
