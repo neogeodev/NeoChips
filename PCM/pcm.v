@@ -1,4 +1,4 @@
-// SNK NEO-D0 logic definition
+// SNK PCM logic definition
 // 2020 Sean 'furrtek' Gonsalves - See LICENSE file
 // TESTED: Everything - Original chip's logic implementation
 
